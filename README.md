@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Trần Thế Anh _ 
 
 
-<!---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100076846026651) 
@@ -13,6 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Theanh130124&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theanh130124&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Theanh130124/Theanh130124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
