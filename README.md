@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Trần Thế Anh _ 
 
+![image](https://github.com/user-attachments/assets/41a8e645-8966-424c-8d73-90933139229e)
 
 
 ## 🌐 Socials:
