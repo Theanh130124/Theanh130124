@@ -12,5 +12,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
