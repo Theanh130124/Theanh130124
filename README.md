@@ -17,8 +17,6 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebanjhon&show_icons=true&locale=en&layout=compact" alt="theanhtran1301" /></p>
 
