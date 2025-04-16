@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Trần Thế Anh _ 
+- 👋 Hi, I’m Trần Thế Anh ___
+- Birthday , 13/01/2004 .
+  
 
 ![Demo Animation](https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif)
 
