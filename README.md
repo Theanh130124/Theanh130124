@@ -29,6 +29,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theanh130124&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theanh130124&theme=github&hide_border=true&area=true" />
 </div>
 
