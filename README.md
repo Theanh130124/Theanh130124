@@ -25,9 +25,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theanh130124\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theanh130124&theme=github&hide_border=true&area=true" />
 </div>
