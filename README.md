@@ -1,7 +1,20 @@
-- 👋 Hi, I’m Trần Thế Anh ___
-- Birthday , 13/01/2004 .
-- I'm a web, mobile, developer.
-  
+<!-- 👋 Hi, I’m Trần Thế Anh -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2E9CCA&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Trần+Thế+Anh;💻+Full-Stack+Developer;🤖+AI+Engineer+(NLP+%26+Computer+Vision);🚀+Java+%26+Python+Lover" alt="Typing SVG">
+</p>
+
+---
+
+### 🌟 About Me
+- 🎂 **Birthday:** 13 / 01 / 2004  
+- 💻 **Web & Mobile Developer** — passionate about building modern, scalable apps.  
+- 🤖 **AI Engineer** specialized in **Natural Language Processing (NLP)** and **Computer Vision**.  
+- 🚀 Love solving problems with **Java**, **Python**, and integrating **AI** into real-world systems.  
+- 🎯 Currently exploring **Multimodal AI** and **LLM-based applications**.
+
+---
+
 
 ![Demo Animation](https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif)
 
