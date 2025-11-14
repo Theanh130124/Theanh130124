@@ -15,6 +15,13 @@
 
 ---
 
+## 🤗 Hugging Face Models
+<p align="left">
+  <a href="https://huggingface.co/tta1301" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-tta1301-orange?logo=huggingface&logoColor=white" alt="HuggingFace Profile">
+  </a>
+</p>
+
 
 ![Demo Animation](https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif)
 
